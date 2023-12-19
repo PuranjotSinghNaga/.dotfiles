@@ -2,7 +2,7 @@
 
 This repository contains my Dot Files i.e. my configs for various applications 
 For now the repo has my :
-- .vimrc
+- [.vimrc](.vimrc)
 
 ## vimrc
 This vimrc (Vim configuration file) has the basic plugins which i require whcih have been installed with [vim-plug](https://github.com/junegunn/vim-plug)
