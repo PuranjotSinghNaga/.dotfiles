@@ -1,3 +1,3 @@
 require("purag.core")
 require("purag.lazy")
---TODO: hello
+vim.g.python3_host_prog = "/home/linuxbrew/.linuxbrew/bin/python3"
